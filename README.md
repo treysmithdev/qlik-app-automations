@@ -12,4 +12,4 @@ Repository of Qlik Application Automation Definition Files
 
 Automation|Description|Article
 ----------|-----------|-------
-[logging](./logging/logging.json)|Logs data to a QVD and automation output|TBD
+[logging](./logging/logging.json)|Logs data to a QVD and automation output|[Logging in Application Automation](https://whereclause.com/2022/03/23/logging-in-application-automation/)
